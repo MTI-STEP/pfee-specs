@@ -1,0 +1,3 @@
+# compatibilité software
+
+# compatibilité hardware

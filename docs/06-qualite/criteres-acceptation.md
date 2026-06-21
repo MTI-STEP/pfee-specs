@@ -1,0 +1,3 @@
+# Critères d'acceptation
+
+Listez les critères d'acceptation du projet. Exemple la page doit répondre sous 300ms, la taille de la requete ne doit pas dépasser 5Mo, ....
