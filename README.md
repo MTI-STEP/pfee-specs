@@ -5,7 +5,6 @@
 - Nunes De Barros Leïla - Etudiante
 - Cerinotti Lena - Etudiant
 - Levan Jérémie - Etudiant
-- Nom Prénom - Rôle
 
 ## 🎯 Objectif
 Travail d'évolution/amélioration d'UX/UI d'interfaces médicales SaaS à destination de patients et de professionnels de santé. Création d'une application mobile sur base du Saas, pour les patients.
