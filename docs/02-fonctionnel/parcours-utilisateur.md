@@ -11,16 +11,16 @@
 ## Parcours praticien DigiSkin
 1. Connexion
 2. Sélection du patient
-3. Connection au microcontroller
+3. Connexion au microcontroller
 4. Lecture des données récentes et historiques
 5. Enregistrement des valeurs
 6. Ajustement des paramètres de retour Haptique
-7. lancement de la réeducation
+7. Lancement de la réeducation
 
 ## Parcours practicien DigiFeet
 1. Connexion
 2. Sélection du patient
 3. Verification des zones à surveiller
-4. Lecture des donnée récente et historique
+4. Lecture des données récentes et historiques
 5. Ajustement du positionnement des capteurs et des paramètres
 6. Mise a jour des infos cliniques
