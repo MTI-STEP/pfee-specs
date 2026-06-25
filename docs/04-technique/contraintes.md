@@ -4,7 +4,8 @@
 - Application mobile pour les patients (iOS/Android ou cross-platform).
 - Traitement de flux de données en temps réel depuis les capteurs.
 - Cryptage des données en transit et au repos.
-- Aucune interprétation médicale automatique : outils d’aide à la décision seulement.
+- Aucune interprétation médicale automatique : outils d'affichage de données seulement pour les practiciens.
+- Interface simple et intuitive pour le patient : Diminuer la charge mentale sur la gestion de leur pathologie
 - UX simple, notifications claires, pas d’interface complexe pour le patient.
 
 # compatibilité hardware

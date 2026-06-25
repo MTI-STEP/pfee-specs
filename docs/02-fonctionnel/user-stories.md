@@ -57,6 +57,18 @@ Afin de consulter mes alertes et mon état à tout moment
 
 ---
 
+### US05 - Faire passer des tests à un patient Digiskin
+En tant que practicien
+Je veux afficher une série d'instructions de tests sur une interface
+Afin de permettre au patient de s'entrainer avec sa prothèse  
+
+#### Critères d’acceptation
+- Affiche en temps réels les étapes du test
+- Consignes instinctives
+- Enregistre les données de retours de la prothèse à chaque étape
+
+---
+
 ## Priorisation
 | ID   | Priorité | Complexité |
 |------|----------|------------|
@@ -64,3 +76,4 @@ Afin de consulter mes alertes et mon état à tout moment
 | US03 | Haute    | Moyenne    |
 | US01 | Moyenne  | Moyenne    |
 | US04 | Moyenne  | Moyenne    |
+| US05 | Basse    | Moyenne    |
