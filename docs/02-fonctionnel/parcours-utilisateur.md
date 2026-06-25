@@ -1,11 +1,5 @@
 # Parcours Utilisateur
 
-## Parcours patient Digiskin
-1. Inscription / connexion
-2. Association de la prothèse à l’application
-3. Visualisation du niveau de retour sensoriel
-4. Réception d’une alerte en cas d’anomalie
-5. Consultation d’un guide simple pour ajuster sa posture ou son usage
 
 ## Parcours patient Digifeet
 1. Inscription / connexion
