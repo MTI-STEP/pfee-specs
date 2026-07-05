@@ -17,9 +17,9 @@ Travail d'évolution/amélioration d'UX/UI d'interfaces médicales SaaS à desti
 - Protection des données et chiffrement
 
 ## 🧱 Stack technique
-- Frontend :
-- Backend :
-- Base de données :
+- Frontend : Electron + Vite + React
+- Backend : Arduino MKR WiFi 1010 (BLE)
+- Base de données : Arduino MKR WiFi 1010 (BLE) ? None
 
 
 ## 📄 Documentation
@@ -30,8 +30,8 @@ Travail d'évolution/amélioration d'UX/UI d'interfaces médicales SaaS à desti
 - [Architecture](docs/05-architecture-c4/)
 
 ## 🚀 Avancement
-- Version actuelle :
-- Prochaine étape :
+- Version actuelle : 
+- Prochaine étape : 
 
 
 ## Descriptif des fichiers
