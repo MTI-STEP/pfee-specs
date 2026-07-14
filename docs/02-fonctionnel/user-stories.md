@@ -17,7 +17,6 @@ Afin de contrôler mes mouvements avec plus de sécurité et de précision
 #### Critères d’acceptation
 - Synthèse de l'activité de la prothèse
 - Indicateurs de retour sensoriels affichés
-- Alerte si paramètre dépasse un seuil
 
 ---
 
@@ -28,12 +27,11 @@ Afin de prévenir la formation d’une plaie
 
 #### Critères d’acceptation
 - Notification est envoyée en cas de surpression
-- Alerte explique la zone concernée
-- Conseils simples pour réagir
+- Alerte explique la zone concerné
 
 ---
 
-### US03 - Suivre l’évolution d’un patient
+### US03 - Suivre l’évolution d’un patient Digiskin
 En tant que praticien  
 Je veux accéder à un dashboard avec les données patients  
 Afin de personnaliser les réglages et suivre l’évolution  
@@ -46,7 +44,7 @@ Afin de personnaliser les réglages et suivre l’évolution
 ---
 
 ### US04 - Accéder au service via mobile
-En tant que patient  
+En tant que patient Digifeet
 Je veux utiliser une application mobile simple  
 Afin de consulter mes alertes et mon état à tout moment  
 
