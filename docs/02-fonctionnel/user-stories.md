@@ -9,19 +9,8 @@ Afin de [valeur]
 
 ## Liste
 
-### US01 - Suivre l'état de ma prothèse
-En tant que patient Digiskin 
-Je veux voir l'état des retours sensoriels et la qualité de mon usage
-Afin de contrôler mes mouvements avec plus de sécurité et de précision
-
-#### Critères d’acceptation
-- Synthèse de l'activité de la prothèse
-- Indicateurs de retour sensoriels affichés
-
----
-
-### US02 - Recevoir une alerte de surpression
-En tant que patient Digifeet  
+### US01 - Recevoir une alerte de surpression
+En tant que patient
 Je veux être averti quand une zone de mon pied subit une surpression prolongée  
 Afin de prévenir la formation d’une plaie  
 
@@ -31,7 +20,7 @@ Afin de prévenir la formation d’une plaie
 
 ---
 
-### US03 - Suivre l’évolution d’un patient Digiskin
+### US02 - Suivre l’évolution d’un patient Digiskin
 En tant que praticien  
 Je veux accéder à un dashboard avec les données patients  
 Afin de personnaliser les réglages et suivre l’évolution  
@@ -43,8 +32,8 @@ Afin de personnaliser les réglages et suivre l’évolution
 
 ---
 
-### US04 - Accéder au service via mobile
-En tant que patient Digifeet
+### US03 - Accéder au service via mobile
+En tant que patient
 Je veux utiliser une application mobile simple  
 Afin de consulter mes alertes et mon état à tout moment  
 
@@ -55,7 +44,7 @@ Afin de consulter mes alertes et mon état à tout moment
 
 ---
 
-### US05 - Faire passer des tests à un patient Digiskin
+### US04 - Faire passer des tests à un patient Digiskin
 En tant que practicien
 Je veux afficher une série d'instructions de tests sur une interface
 Afin de permettre au patient de s'entrainer avec sa prothèse  
@@ -70,8 +59,7 @@ Afin de permettre au patient de s'entrainer avec sa prothèse
 ## Priorisation
 | ID   | Priorité | Complexité |
 |------|----------|------------|
+| US01 | Haute    | Moyenne    |
 | US02 | Haute    | Moyenne    |
-| US03 | Haute    | Moyenne    |
-| US01 | Moyenne  | Moyenne    |
-| US04 | Moyenne  | Moyenne    |
-| US05 | Basse    | Moyenne    |
+| US03 | Moyenne  | Moyenne    |
+| US04 | Basse    | Moyenne    |

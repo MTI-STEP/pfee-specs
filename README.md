@@ -1,9 +1,9 @@
-# Projet - Digiskin et Digifeet
+# Projet - Digifeet
 
 ## 👥 Équipe
 - Tsangou-Wanvoukissa Sarah - Etudiante
 - Nunes De Barros Leïla - Etudiante
-- Cerinotti Lena - Etudiant
+- Cerinotti Lena - Etudiante
 - Levan Jérémie - Etudiant
 
 ## 🎯 Objectif
