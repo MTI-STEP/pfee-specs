@@ -1,14 +1,15 @@
 # Use Cases
 
-## UC01 - Consultation du tableau de bord patient
-Acteur : Patient  
-Description : Le patient consulte son état sensoriel et ses alertes sur l’application mobile.
-Déclencheur : Le patient ouvre l’application.
+
+## UC01 - Suivi et paramétrage par le praticien
+Acteur : Praticien  
+Description : Le praticien consulte un dashboard et ajuste les paramètres du dispositif.
+Déclencheur : Le praticien se connecte au dashboard.
 Flux principal :
-1. Le patient ouvre l’app.
-2. L’application récupère les données récentes.
-3. Le patient visualise les indicateurs de santé et les alertes.
-4. Le patient applique les recommandations.
+1. Le praticien accède à la fiche patient.
+2. Il consulte les données de capteurs, les tendances et le score IA.
+3. Il modifie les paramètres adaptés au patient.
+4. Il enregistre les réglages.
 
 ## UC02 - Alerte de surpression plantaire
 Acteur : Patient Digifeet  
@@ -20,15 +21,15 @@ Flux principal :
 3. Une règle de seuil déclenche une alerte.
 4. Le patient reçoit une notification.
 
-## UC03 - Suivi et paramétrage par le praticien
-Acteur : Praticien  
-Description : Le praticien consulte un dashboard et ajuste les paramètres du dispositif.
-Déclencheur : Le praticien se connecte au dashboard.
+## UC03 - Consultation du tableau de bord patient
+Acteur : Patient  
+Description : Le patient consulte son état sensoriel et ses alertes sur l’application mobile.
+Déclencheur : Le patient ouvre l’application.
 Flux principal :
-1. Le praticien accède à la fiche patient.
-2. Il consulte les données de capteurs, les tendances et le score IA.
-3. Il modifie les paramètres adaptés au patient.
-4. Il enregistre les réglages.
+1. Le patient ouvre l’app.
+2. L’application récupère les données récentes.
+3. Le patient visualise les indicateurs de santé et les alertes.
+4. Le patient applique les recommandations.
 
 ## UC04 - Historique et score de santé
 Acteur : Praticien  
