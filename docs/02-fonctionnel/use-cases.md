@@ -12,7 +12,7 @@ Flux principal :
 4. Il enregistre les réglages.
 
 ## UC02 - Alerte de surpression plantaire
-Acteur : Patient Digifeet  
+Acteur : Patient 
 Description : Le système détecte une surpression et alerte le patient avant la plaie.
 Déclencheur : Un capteur envoie une valeur de pression critique.
 Flux principal :

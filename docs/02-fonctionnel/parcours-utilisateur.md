@@ -8,15 +8,6 @@
 4. Réception d’une notification de surpression
 5. Suivi des conseils de prévention
 
-## Parcours praticien DigiSkin
-1. Connexion
-2. Sélection du patient
-3. Connexion au microcontroller
-4. Lecture des données récentes et historiques
-5. Enregistrement des valeurs
-6. Ajustement des paramètres de retour Haptique
-7. Lancement de la réeducation
-
 ## Parcours practicien DigiFeet
 1. Connexion
 2. Sélection du patient
