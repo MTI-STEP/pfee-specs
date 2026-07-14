@@ -1,20 +1,25 @@
-# Projet - [Nom du projet]
+# Projet - Digiskin et Digifeet
 
 ## 👥 Équipe
-- Nom Prénom - Rôle
-- Nom Prénom - Rôle
+- Tsangou-Wanvoukissa Sarah - Etudiante
+- Nunes De Barros Leïla - Etudiante
+- Cerinotti Lena - Etudiant
+- Levan Jérémie - Etudiant
 
 ## 🎯 Objectif
-Décrire brièvement le produit.
+Travail d'évolution/amélioration d'UX/UI d'interfaces médicales SaaS à destination de patients et de professionnels de santé. Création d'une application mobile sur base du Saas, pour les patients.
 
 ## 📦 Périmètre (MVP)
-- Feature 1
-- Feature 2
+- Interface mobile patient pour alertes et suivi
+- Dashboard praticien pour visualiser les données patients
+- Traitement de flux de données capteurs
+- Génération d’alertes simples et compréhensibles
+- Protection des données et chiffrement
 
 ## 🧱 Stack technique
-- Frontend :
-- Backend :
-- Base de données :
+- Frontend : Electron + Vite + React
+- Backend : Arduino MKR WiFi 1010 (BLE)
+- Base de données : Arduino MKR WiFi 1010 (BLE) ? None
 
 
 ## 📄 Documentation
@@ -25,8 +30,8 @@ Décrire brièvement le produit.
 - [Architecture](docs/05-architecture-c4/)
 
 ## 🚀 Avancement
-- Version actuelle :
-- Prochaine étape :
+- Version actuelle : 
+- Prochaine étape : 
 
 
 ## Descriptif des fichiers
