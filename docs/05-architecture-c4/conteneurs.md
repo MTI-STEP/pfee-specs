@@ -1,4 +1,4 @@
-# Architecture - Niveau Conteneurs (C4 - Niveau 2)
+# Conteneurs (C4 - Niveau 2)
 
 ## Vue d'ensemble
 Le système Digi'Feet est composé d'un ensemble de capteurs hardware communicant avec des applications clientes (SaaS et Mobile), qui s'appuient sur une API centralisée pour le stockage et la logique métier.
