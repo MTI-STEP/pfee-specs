@@ -3,7 +3,7 @@
 Décrivez l'architecture technique du projet, insérer votre schéma d'architecture technique également.
 
 ## Shema d'architecture
-![schema_v0](/ressources/Digifeet_archi_v0.png)
+![schema_v1](/ressources/Digifeet_archi_v1.png)
 
 ## Architecture Client Saas
 
