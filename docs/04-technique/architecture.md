@@ -2,7 +2,10 @@
 
 Décrivez l'architecture technique du projet, insérer votre schéma d'architecture technique également.
 
-## Architecture (Electron + Vite + React)
+## Shema d'architecture
+![schema_v0](ressources/Digifeet_archi_v0.png)
+
+## Architecture Client Saas
 
 ### Vue d’ensemble
 
@@ -17,3 +20,6 @@ Décrivez l'architecture technique du projet, insérer votre schéma d'architect
 - **Renderer**: `apps/renderer/index.html` → `apps/renderer/src/main.tsx`
 - **Main**: `apps/main/src/main.js`
 - **Preload**: `apps/preload/src/preload.cjs`
+
+## Architecture Backend
+TODO
