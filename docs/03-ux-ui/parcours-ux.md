@@ -6,7 +6,6 @@ Expérience utilisateur détaillée, points de friction, améliorations possible
 
 flowchart TD
     A@{ shape: stadium, label: "Ecran de connexion" } --> B{Choix du type de compte}
-    style A fill:#f9f
 
     B -->|Client| C[Dashboard patient]
     B -->|Professionnel| D[Liste patients]
@@ -15,7 +14,7 @@ flowchart TD
 
     G --> |FAQ|H{Question rechcerchée trouvée}
     G --> |Accueil|E{Notification sur le journal d'alerte ?}
-    G --> |Profil|I[Consulter ses données et le contact de son professionnel de santé]
+    G --> |Profil|I[Consulter ses données]
 
     E --> |Oui|F[Ouverture du journal]
 
@@ -24,4 +23,18 @@ flowchart TD
     I --> K{Se deconnecter ?}
 
     K --> |Oui|A
+
+    D --> |Choix du patient|L[Dashboard patient]
+
+    L --> M[Profil patient]
+
+    L --> G
+
+    style A fill:#ffa500, color: #000
+    style B fill:#008000, color: #000
+    style G fill:#008000, color: #000
+    style H fill:#008000, color: #000
+    style E fill:#008000, color: #000
+    style K fill:#008000, color: #000
+
 ```
