@@ -35,7 +35,7 @@ classDiagram
             double HeighInCm
             double WeightInKg
             
-            %% JSP
+            %% info cliniques
             timestamp DeviceStart
             timestamp FirstDiagnostic
             double GlycemieLevel
@@ -57,7 +57,6 @@ classDiagram
             bool artherio
             bool solo
             string notes
-            FootAnomalies[] history
         }
 
         class Practitioner {

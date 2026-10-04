@@ -1,10 +1,11 @@
 # Projet - Digifeet
 
 ## 👥 Équipe
-- Tsangou-Wanvoukissa Sarah - Etudiante
-- Nunes De Barros Leïla - Etudiante
-- Cerinotti Lena - Etudiante
-- Levan Jérémie - Etudiant
+- Tsangou-Wanvoukissa Sarah - Ingénieure Développement
+- Nunes De Barros Leïla - Ingénieure Développement
+- Cerinotti Lena - Ingénieur Développement
+- Levan Jérémie - Ingénieur Développement
+- Gabriel Eleuterio - Product Owner
 
 ## 🎯 Objectif
 Travail d'évolution/amélioration d'UX/UI d'interfaces médicales SaaS à destination de patients et de professionnels de santé. Création d'une application mobile sur base du Saas, pour les patients.
@@ -18,8 +19,9 @@ Travail d'évolution/amélioration d'UX/UI d'interfaces médicales SaaS à desti
 
 ## 🧱 Stack technique
 - Frontend : Electron + Vite + React
-- Backend : Arduino MKR WiFi 1010 (BLE)
-- Base de données : Arduino MKR WiFi 1010 (BLE) ? None
+- Backend : Java SpringBoot
+- Base de données : PostgreSql
+- Hardware: Arduino MKR WiFi 1010 (BLE)
 
 
 ## 📄 Documentation

@@ -2,7 +2,10 @@
 
 Décrivez l'architecture technique du projet, insérer votre schéma d'architecture technique également.
 
-## Architecture (Electron + Vite + React)
+## Shema d'architecture
+![schema_v1](/ressources/Digifeet_archi_v1.png)
+
+## Architecture Client Saas
 
 ### Vue d’ensemble
 
