@@ -19,7 +19,7 @@ flowchart TD
     E --> F[Visualisation du journal d'alerte]
 
     H --> |Oui|J[Visualisation de la reponse]
-    H --> |Non|J[Possibilité de poser la question]
+    H --> |Non|N[Possibilité de poser la question]
 
     I --> K{Se deconnecter ?}
 
@@ -35,7 +35,6 @@ flowchart TD
     style B fill:#008000, color: #000
     style G fill:#008000, color: #000
     style H fill:#008000, color: #000
-    style E fill:#008000, color: #000
     style K fill:#008000, color: #000
 
 ```
