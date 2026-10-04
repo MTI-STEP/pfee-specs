@@ -20,6 +20,3 @@ Décrivez l'architecture technique du projet, insérer votre schéma d'architect
 - **Renderer**: `apps/renderer/index.html` → `apps/renderer/src/main.tsx`
 - **Main**: `apps/main/src/main.js`
 - **Preload**: `apps/preload/src/preload.cjs`
-
-## Architecture Backend
-TODO
