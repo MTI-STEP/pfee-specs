@@ -3,10 +3,10 @@
 ## Frontend : React (+ Electron & Capacitor)
 - **Justification :** Permet une grande réutilisabilité du code entre la plateforme SaaS (desktop via Electron) et l'application mobile (via React Native). L'écosystème React est idéal pour gérer les états complexes liés aux flux de données en temps réel.
 
-## Script local : Python
+## Backend packager : Python
 - **Justification :** Utilisé pour la brique `ble_client.py` afin de gérer de manière stable et performante la connexion Bluetooth Low Energy (BLE) avec l'Arduino, ce qui est souvent plus complexe à gérer nativement en JavaScript depuis Electron.
 
-## Backend : Spring Boot (Java)
+## Backend distant : Spring Boot (Java)
 - **Justification :** Framework robuste, fortement typé, sécurisé et idéal pour créer des API REST performantes. Il dispose d'un excellent écosystème pour la sécurité (Spring Security) et la gestion des données (Spring Data JPA).
 
 ## Base de données : PostgreSQL
