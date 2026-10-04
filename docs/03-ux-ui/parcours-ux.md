@@ -12,13 +12,14 @@ flowchart TD
 
     C --> G{Choix de la tab}
 
-    G --> |FAQ|H{Question rechcerchée trouvée}
-    G --> |Accueil|E{Notification sur le journal d'alerte ?}
+    G --> |FAQ|H{Question recherchée trouvée}
+    G --> |Accueil|E[Dashboard patient]
     G --> |Profil|I[Consulter ses données]
 
-    E --> |Oui|F[Ouverture du journal]
+    E --> F[Visualisation du journal d'alerte]
 
     H --> |Oui|J[Visualisation de la reponse]
+    H --> |Non|J[Possibilité de poser la question]
 
     I --> K{Se deconnecter ?}
 
