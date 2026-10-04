@@ -9,7 +9,7 @@ Afin de [valeur]
 
 ## Liste
 
-### US01 : Création des profils (patient, admin)
+### STEP-11 : Création des profils (patient, admin)
 * **User Story** : *As a User, I want to Authenticate myself on the SaaS or the mobile App so that I can Access the corresponding information.*
 * **Critères d'acceptation** :
   - [ ] Les rôles (Patient, Admin) sont disponibles et gérés sur le backend.
@@ -17,7 +17,7 @@ Afin de [valeur]
 
 ---
 
-### US02 : Connexion (Sign in)
+### STEP-12 : Connexion (Sign in)
 * **User Story** : *As a User, I want to Authenticate myself on the SaaS or the mobile App so that I can access the platform.*
 * **Critères d'acceptation** :
   - [ ] L'authentification est fonctionnelle pour un utilisateur avec le rôle **Patient**.
@@ -25,7 +25,7 @@ Afin de [valeur]
 
 ---
 
-### US03 : Déconnexion (Sign out)
+### STEP-13 : Déconnexion (Sign out)
 * **User Story** : *As a User, I want to sign out of the SaaS or the mobile app so that I can protect my account and prevent any unauthorized access from my device.*
 * **Critères d'acceptation** :
   - [ ] Déconnexion fonctionnelle côté **Patient** (App mobile).
@@ -34,7 +34,7 @@ Afin de [valeur]
 
 ---
 
-### US04 : Suppression de compte
+### STEP-14 : Suppression de compte
 * **User Story** : *As a User, I want to Be able to delete my account so that I can Delete all my data from Digifeet.*
 * **Critères d'acceptation** :
   - [ ] Action de suppression déclenchable par un administrateur pour un compte patient.
@@ -45,7 +45,7 @@ Afin de [valeur]
 
 ---
 
-### US05 : Page de connexion (Interface UI)
+### STEP-15 : Page de connexion (Interface UI)
 * **User Story** : *As a User, I want to Authenticate myself on the SaaS or the mobile App so that I can access the corresponding information.*
 * **Critères d'acceptation** :
   - [ ] Présence de l'écran/page de connexion conforme aux maquettes graphiques.
@@ -53,7 +53,7 @@ Afin de [valeur]
 
 ---
 
-### US06 : Page de suppression de compte (Interface UI)
+### STEP-16 : Page de suppression de compte (Interface UI)
 * **User Story** : *As a User, I want to have access to a suppression page on the SaaS and the mobile App so that I can choose to suppress the data of my account.*
 * **Critères d'acceptation** :
   - [ ] Présence du bouton de suppression sur l'interface.
@@ -63,7 +63,7 @@ Afin de [valeur]
 
 ---
 
-### US07 : Bouton de déconnexion (Mobile)
+### STEP-17 : Bouton de déconnexion (Mobile)
 * **User Story** : *As a patient, I want to press the sign out button of the mobile app so that I can protect my account and prevent any unauthorized access from my device.*
 * **Critères d'acceptation** :
   - [ ] Bouton de déconnexion positionné en bas de la page Profil du patient.
@@ -72,7 +72,7 @@ Afin de [valeur]
 
 ---
 
-### US08 : Connexion aux semelles connectées
+### STEP-18 : Connexion aux semelles connectées
 * **User Story** : *As a User, I want to Connect my connected soles to my application so that I can Collect and see data related to my feet's health.*
 * **Critères d'acceptation** :
   - [ ] Clic sur un bouton dédié pour démarrer l'appairage/connexion des semelles.
@@ -83,7 +83,7 @@ Afin de [valeur]
 
 ---
 
-### US09 : Graphique des données en temps réel (Mobile)
+### STEP-19 : Graphique des données en temps réel (Mobile)
 * **User Story** : *As a Patient, I want to Monitor the data from my connected soles so that I can assess the state of my feet and act when necessary.*
 * **Critères d'acceptation** :
   - [ ] Affichage des données sous forme de flux dynamique (un ou plusieurs graphiques).
@@ -93,7 +93,7 @@ Afin de [valeur]
 
 ---
 
-### US10 : Refonte des graphiques (SaaS)
+### STEP-20 : Refonte des graphiques (SaaS)
 * **User Story** : *As a Practitioner, I want to view useful information on the SaaS so that I can quickly understand the data I need.*
 * **Critères d'acceptation** :
   - [ ] Liste établie des graphiques existants à conserver.
@@ -103,7 +103,7 @@ Afin de [valeur]
 
 ---
 
-### US11 : Page d'accueil (Mobile)
+### STEP-21 : Page d'accueil (Mobile)
 * **User Story** : *As a patient, I want to access the home page of the mobile app so that I can visualize my feet's real time state, risk assessment and sole connection state.*
 * **Critères d'acceptation** :
   - [ ] Intégration du graphique en temps réel.
@@ -113,7 +113,7 @@ Afin de [valeur]
 
 ---
 
-### US12 : Barre de navigation (Navbar)
+### STEP-22 : Barre de navigation (Navbar)
 * **User Story** : *As a User, I want to Access all my main pages/categories so that I can Access the entirety of the application.*
 * **Critères d'acceptation** :
   - [ ] Présence des onglets principaux : **FAQ**, **Accueil (Home)**, **Profil**.
@@ -123,7 +123,7 @@ Afin de [valeur]
 
 ---
 
-### US13 : Base de données provisoire & Historique
+### STEP-23 : Base de données provisoire & Historique
 * **User Story** : *As a user, I want to review past data from my connected soles so that I can (give accurate information to my practitioner / Review the data of my patient to prepare my next appointment).*
 * **Critères d'acceptation** :
   - [ ] L'utilisateur (patient) peut interroger un endpoint API pour récupérer l'historique de ses données et événements.
@@ -131,7 +131,7 @@ Afin de [valeur]
 
 ---
 
-### US14 : Étude d'architecture pour le stockage temps réel
+### STEP-24 : Étude d'architecture pour le stockage temps réel
 * **User Story** : *As a maintener, I want to have an ordered data base so that I can navigate the data easily.*
 * **Critères d'acceptation** :
   - [ ] Recherche et analyse comparative des différentes options de stockage.
